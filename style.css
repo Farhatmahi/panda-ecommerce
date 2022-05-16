@@ -22,6 +22,7 @@
     color: white;
     border-radius: 7px;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .category-1, .category-2, .category-3{
@@ -46,7 +47,7 @@
     margin-top: 150px;
 }
 
-.shoe h1{
+.shoe h1, .backpacks h1{
     font-size: 24px;
     margin-bottom: 20px;
 }
@@ -55,5 +56,22 @@
     border: none !important;
     box-shadow: 5px 5px 10px lightgray;
 
+}
+
+.card-footer{
+    background: #fff !important;
+    border : none !important;
+}
+
+
+.footer{
+    background: #FEEAE8;
+    border-radius: 10px;
+    padding: 60px;
+}
+
+.footer input{
+    width: 30
+     n75r0px;
 }
 
